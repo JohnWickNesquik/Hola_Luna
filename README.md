@@ -1,2 +1,2 @@
 # Hola_Luna
-Material de Carbono de Tungsteno cayendo a 15 mts en la luna
+Simulacion Fisica de un objeto de carbono de tungsteno cayendo a una distancia de 15 mts a la Luna.
